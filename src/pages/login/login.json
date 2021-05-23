@@ -1,0 +1,25 @@
+[
+  {
+  "status": 0,
+  "data": [{
+    "id": 1,
+    "username": "admin",
+    "password": "123456",
+    "create-time": 12446576878,
+    "role": {
+      "menu": []
+    }
+  },{
+    "id": 2,
+    "username": "danmin",
+    "password": "888888",
+    "create-time": 12446576879,
+    "role": {
+      "menu": []
+    }
+  }]
+},{
+  "status":1,
+  "msg":"用户名或者密码不正确！",
+  "data": []
+}]

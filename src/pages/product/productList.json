@@ -1,0 +1,290 @@
+{
+	"list": [
+		{
+			"id": "1",
+			"status": "1",
+			"name": "联想",
+			"desc": "联想拯救者Y7000 2020 十代酷睿i5 15.6英寸游戏本笔记本电脑GTX1650/GTX1650Ti ",
+			"price": "5040",
+			"categoryId": "1",
+			"imgs": [
+				"1.jpg",
+				"2.jpg"
+			],
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">品牌: 捷硕</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">内存容量: 8GB 16GB</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">硬盘容量: 配置一</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源功率: 300W</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">内存类型: DDR3</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存容量: 3GB</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存位宽: 128bit</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存类型: GDDR5</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">主板结构: ATX</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "2",
+			"status": "2",
+			"name": "华为MateBook D笔记本电脑",
+			"desc": "华为MateBook D笔记本电脑2020最新版锐龙处理器14/15.6英寸轻薄便携学生平板二合一手提电脑",
+			"price": "4099",
+			"imgs": [
+				"2.jpg",
+				"3.jpg"
+			],
+			"categoryId": "1",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">品牌: 捷硕</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">内存容量: 8GB 16GB</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">硬盘容量: 配置一</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源功率: 300W</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">内存类型: DDR3</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存容量: 3GB</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存位宽: 128bit</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存类型: GDDR5</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">主板结构: ATX</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "3",
+			"categoryId": "1",
+			"status": "1",
+			"imgs": [
+				"4.jpg",
+				"5.jpg"
+			],
+			"name": "戴尔",
+			"desc": "戴尔/DELL灵越5000 Urban 13.3英寸10代i5轻薄便携本办公商务笔记本学生本手提电脑",
+			"price": "5399",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">品牌: 捷硕</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">内存容量: 8GB 16GB</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">硬盘容量: 配置一</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源功率: 300W</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">内存类型: DDR3</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存容量: 3GB</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存位宽: 128bit</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存类型: GDDR5</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">主板结构: ATX</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "4",
+			"categoryId": "1",
+			"status": "1",
+			"imgs": [
+				"6.jpg",
+				"7.jpg"
+			],
+			"name": "新款笔记本电脑",
+			"desc": "2020年新款笔记本电脑轻薄便携学生女生款15.6英寸金属高配超极超薄商务办公用大学生游戏本手提",
+			"price": "5034",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">品牌: 捷硕</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">内存容量: 8GB 16GB</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">硬盘容量: 配置一</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源功率: 300W</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">内存类型: DDR3</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存容量: 3GB</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存位宽: 128bit</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显存类型: GDDR5</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">主板结构: ATX</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "5",
+			"categoryId": "1",
+			"status": "2",
+			"imgs": [
+				"8.jpg",
+				"9.jpg"
+			],
+			"name": "六核独显一体机",
+			"desc": "i7高配独显四核27英寸办公家用游戏型一体机电脑主机台式整机全套",
+			"price": "1999",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">光驱类型: 无光驱</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">独立显卡型号: 其他/other</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU核心数: 六核心</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">机箱结构: ATX</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU主频: 2.4GHz(含)-2.8GHz(不含)</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">配置类型: 疯狂游戏型</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">套餐类型: 套餐一 套餐二 套餐三 套餐四 套餐五 套餐六 套餐七</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源80 PLUS认证: 不支持</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显卡系列: GTX 1060</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "6",
+			"categoryId": "1",
+			"status": "2",
+			"imgs": [
+				"10.jpg",
+				"11.jpg"
+			],
+			"name": "华硕VivoBook15S十代",
+			"desc": "ASUS华硕VivoBook15S十代酷睿i5轻薄便携学生笔记本电脑商务办公超薄i7游戏手提",
+			"price": "4999",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">光驱类型: 无光驱</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">独立显卡型号: 其他/other</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU核心数: 六核心</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">机箱结构: ATX</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU主频: 2.4GHz(含)-2.8GHz(不含)</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">配置类型: 疯狂游戏型</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">套餐类型: 套餐一 套餐二 套餐三 套餐四 套餐五 套餐六 套餐七</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源80 PLUS认证: 不支持</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显卡系列: GTX 1060</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "7",
+			"categoryId": "1",
+			"status": "2",
+			"imgs": [
+				"12.jpg",
+				"13.jpg"
+			],
+			"name": "电脑广告机",
+			"desc": "卧式触摸屏自助查询一体机32/43/49寸落地式多媒体触控电脑广告机",
+			"price": "1003",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">光驱类型: 无光驱</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">独立显卡型号: 其他/other</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU核心数: 六核心</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">机箱结构: ATX</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU主频: 2.4GHz(含)-2.8GHz(不含)</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">配置类型: 疯狂游戏型</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">套餐类型: 套餐一 套餐二 套餐三 套餐四 套餐五 套餐六 套餐七</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源80 PLUS认证: 不支持</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显卡系列: GTX 1060</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "8",
+			"categoryId": "1",
+			"status": "2",
+			"imgs": [
+				"14.jpg",
+				"14.jpg"
+			],
+			"name": "多媒体电子白板",
+			"desc": "43/50/55寸65寸幼儿园互动教学一体机多媒体电子白板壁挂触摸查询",
+			"price": "1400",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">光驱类型: 无光驱</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">独立显卡型号: 其他/other</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU核心数: 六核心</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">机箱结构: ATX</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU主频: 2.4GHz(含)-2.8GHz(不含)</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">配置类型: 疯狂游戏型</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">套餐类型: 套餐一 套餐二 套餐三 套餐四 套餐五 套餐六 套餐七</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源80 PLUS认证: 不支持</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显卡系列: GTX 1060</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "9",
+			"categoryId": "1",
+			"status": "2",
+			"imgs": [
+				"1.jpg",
+				"2.jpg"
+			],
+			"name": "戴尔",
+			"desc": "戴尔/DELL灵越5000 Urban 13.3英寸10代i5轻薄便携本办公商务笔记本学生本手提电脑",
+			"price": "3092",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">光驱类型: 无光驱</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">独立显卡型号: 其他/other</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU核心数: 六核心</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">机箱结构: ATX</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU主频: 2.4GHz(含)-2.8GHz(不含)</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">配置类型: 疯狂游戏型</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">套餐类型: 套餐一 套餐二 套餐三 套餐四 套餐五 套餐六 套餐七</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源80 PLUS认证: 不支持</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显卡系列: GTX 1060</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "10",
+			"categoryId": "1",
+			"status": "2",
+			"imgs": [],
+			"name": "媒体触摸屏",
+			"desc": "德芝多媒体触摸屏触控一体机立式自助查询机红外屏落地卧式广告机",
+			"price": "3002",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">光驱类型: 无光驱</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">独立显卡型号: 其他/other</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU核心数: 六核心</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">机箱结构: ATX</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU主频: 2.4GHz(含)-2.8GHz(不含)</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">配置类型: 疯狂游戏型</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">套餐类型: 套餐一 套餐二 套餐三 套餐四 套餐五 套餐六 套餐七</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源80 PLUS认证: 不支持</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显卡系列: GTX 1060</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "11",
+			"categoryId": "1",
+			"status": "2",
+			"imgs": [],
+			"name": "华为",
+			"desc": "6期免息【可减200元】华为HONOR 荣耀X10 Max 5G版手机",
+			"price": "2445",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">光驱类型: 无光驱</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">独立显卡型号: 其他/other</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU核心数: 六核心</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">机箱结构: ATX</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">CPU主频: 2.4GHz(含)-2.8GHz(不含)</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">配置类型: 疯狂游戏型</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">套餐类型: 套餐一 套餐二 套餐三 套餐四 套餐五 套餐六 套餐七</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">电源80 PLUS认证: 不支持</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif;\">显卡系列: GTX 1060</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "12",
+			"categoryId": "4",
+			"status": "1",
+			"imgs": [],
+			"name": "连衣裙",
+			"desc": "实拍2020夏季新女装简约甜美宽松系带百搭荷叶边泡泡袖百搭连衣裙",
+			"price": "94",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">品牌: 普普风</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">适用年龄: 25-29周岁</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">尺码: S M L</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">面料: 其他</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">图案: 花色</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">风格: 甜美</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">甜美: 瑞丽</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">领型: V领</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">腰型: 低腰</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "13",
+			"categoryId": "4",
+			"status": "2",
+			"imgs": [],
+			"name": "短裙",
+			"desc": "夏季女装2020新款V领波点印花短袖显瘦连衣裙港味复古皱褶包臀裙",
+			"price": "214",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">品牌: 普普风</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">适用年龄: 25-29周岁</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">尺码: S M L</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">面料: 其他</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">图案: 花色</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">风格: 甜美</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">甜美: 瑞丽</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">领型: V领</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">腰型: 低腰</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "14",
+			"categoryId": "4",
+			"status": "1",
+			"imgs": [],
+			"name": "长袖衬衣两件套",
+			"desc": "2020早秋新款东大门女装纯棉短袖字母印花中长裙+长袖衬衣两件套",
+			"price": "109",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">品牌: 普普风</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">适用年龄: 25-29周岁</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">尺码: S M L</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">面料: 其他</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">图案: 花色</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">风格: 甜美</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">甜美: 瑞丽</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">领型: V领</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">腰型: 低腰</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "15",
+			"status": "1",
+			"categoryId": "4",
+			"imgs": [],
+			"name": "时尚韩版上衣保暖衣服",
+			"desc": "2020年新款反季特价冬季羊羔绒潮流时尚韩版上衣保暖休闲百搭女装",
+			"price": "99",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">品牌: 普普风</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">适用年龄: 25-29周岁</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">尺码: S M L</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">面料: 其他</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">图案: 花色</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">风格: 甜美</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">甜美: 瑞丽</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">领型: V领</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">腰型: 低腰</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "16",
+			"status": "2",
+			"categoryId": "4",
+			"imgs": [],
+			"name": "长袖卫衣",
+			"desc": "2020秋季新款假两件polo领宽松韩版学院风绣花薄款长袖卫衣女装潮",
+			"price": "310",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">品牌: 普普风</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">适用年龄: 25-29周岁</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">尺码: S M L</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">面料: 其他</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">图案: 花色</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">风格: 甜美</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">甜美: 瑞丽</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">领型: V领</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">腰型: 低腰</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "17",
+			"status": "1",
+			"categoryId": "4",
+			"imgs": [],
+			"name": "短裙",
+			"desc": "夏季女装2020新款V领波点印花短袖显瘦连衣裙港味复古皱褶包臀裙",
+			"price": "214",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">品牌: 普普风</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">适用年龄: 25-29周岁</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">尺码: S M L</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">面料: 其他</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">图案: 花色</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">风格: 甜美</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">甜美: 瑞丽</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">领型: V领</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">腰型: 低腰</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "18",
+			"status": "1",
+			"categoryId": "4",
+			"imgs": [],
+			"name": "连体衣",
+			"desc": "雾霾蓝冰丝针织衫性感深V修身显瘦紧身上衣连体衣",
+			"price": "169",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">品牌: 普普风</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">适用年龄: 25-29周岁</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">尺码: S M L</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">面料: 其他</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">图案: 花色</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">风格: 甜美</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">甜美: 瑞丽</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">领型: V领</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">腰型: 低腰</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"id": "19",
+			"status": "1",
+			"categoryId": "4",
+			"imgs": [],
+			"name": "小清新雪纺连衣裙子",
+			"desc": "小清新雪纺连衣裙子春秋装女装2020年新款小个子设计感气质女神范",
+			"price": "98",
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">品牌: 普普风</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">适用年龄: 25-29周岁</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">尺码: S M L</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">面料: 其他</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">图案: 花色</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">风格: 甜美</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">甜美: 瑞丽</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">领型: V领</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">腰型: 低腰</span>&nbsp;</li>\n</ul>\n"
+		},
+		{
+			"name": "鬼谷子",
+			"desc": "畅销书排行榜正版书籍人性的弱点+鬼谷子+墨菲定律+狼道+羊皮卷受益一生的五本书卡耐基全集优点励志成功图书为人处世书籍畅销书",
+			"price": "19.8",
+			"categoryId": "3",
+			"imgs": [
+				"u=268fm=26&gp=0.jpg",
+				"&fm=26&gp=0.jpg"
+			],
+			"detail": "<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">产品名称：人性的优点人性的弱点全集</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">ISBN编号: 9787806018590</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">书名: 人性的优点人性的弱点全集</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">作者: 袭村野</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">定价: 38.00元</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">书名: 人性的优点人性的弱点全集</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">是否是套装: 否</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, 微软雅黑, sans-serif;\">出版社名称: 辽宁画报出版社</span>&nbsp;</li>\n</ul>\n",
+			"id": "20",
+			"status": "1"
+		},
+		{
+			"name": "11",
+			"desc": "112",
+			"price": "123",
+			"categoryId": "3",
+			"imgs": [
+				"微信图片_20200109175924.jpg"
+			],
+			"detail": "<p></p>\n",
+			"id": "21",
+			"status": "2"
+		},
+		{
+			"name": "222323",
+			"desc": "878787",
+			"price": "e",
+			"categoryId": "4",
+			"imgs": [
+				"6ceefdbab5efec3589a68f4395c15f4.jpg"
+			],
+			"detail": "<p></p>\n",
+			"id": "22",
+			"status": "1"
+		},
+		{
+			"name": "槈",
+			"desc": "34物",
+			"price": "槈",
+			"categoryId": "5",
+			"imgs": [],
+			"detail": "<p></p>\n",
+			"id": "23",
+			"status": "2"
+		},
+		{
+			"name": "要地",
+			"desc": "西南非",
+			"price": "槈",
+			"categoryId": "3",
+			"imgs": [
+				"微信图片_20200412154950.jpg"
+			],
+			"detail": "<p>槈</p>\n",
+			"id": "24",
+			"status": "2"
+		},
+		{
+			"name": "大大撒",
+			"desc": "撒地方",
+			"price": "槈",
+			"categoryId": "2",
+			"imgs": [],
+			"detail": "<p><strong><em>dfddg发给</em></strong></p>\n",
+			"id": "25",
+			"status": "2"
+		}
+	]
+}
